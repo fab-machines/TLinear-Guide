@@ -4,3 +4,6 @@
 <div align="center"><i>T-Shaped fabricatable linear rail guide system</i></div>
 
 
+License
+-- 
+TLinear guide is licensed under the terms of the open source license: Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
